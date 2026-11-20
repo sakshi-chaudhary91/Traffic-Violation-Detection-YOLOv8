@@ -13,7 +13,7 @@ Real-time traffic violation, vehicle, pedestrian, traffic signal, and sign detec
   - **Inference Speed (Tesla T4):** `~3.9 ms` per image (validation) / `~7.6 ms` (single-image sample run) 
 
 ## Classes (23)
-- **Vehicles & Pedestrians:** `person`, `car`, `truck`, `bus`, `motorcycle`
+- **Vehicles & Pedestrians:** `person`, `car`, `truck`, `bus`, `motorcycle` 
 - **Traffic Lights:** `red light`, `green light`
 - **Traffic Signs & Speed Limits:** `stop sign`, `no entry`, `no overtaking`, `no left turn`, `no right turn`, `no stopping`, `no u-turn`, and speed limits (`20`, `30`, `40`, `50`, `60`, `70`, `80`, `100`, `120`)
 
