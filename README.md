@@ -4,7 +4,7 @@ Real-time traffic violation, vehicle, pedestrian, traffic signal, and sign detec
 
 ## Model & Training Summary
 - **Base Model:** `yolov8n.pt` (fine-tuned for 20 epochs, `imgsz=640`, `batch=16`, AMP enabled)
-- **Dataset:** Traffic Violation Detection Dataset (`5,254` train images, `1,470` validation images, 23 classes)
+- **Dataset:** Traffic Violation Detection Dataset (`5,254` train images, `1,470` validation images, 23 classes) 
 - **Validation Performance (`best.pt`):**
   - **Precision:** `0.886`
   - **Recall:** `0.863`
