@@ -23,7 +23,7 @@ Real-time traffic violation, vehicle, pedestrian, traffic signal, and sign detec
 
 ## Repository Structure
 ```text
-Traffic-Violation-Detection-YOLOv8/
+Traffic-Violation-Detection-YOLOv8/ 
 ├── README.md
 ├── fixed_data.yaml
 ├── weights/
