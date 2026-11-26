@@ -10,7 +10,7 @@ Real-time traffic violation, vehicle, pedestrian, traffic signal, and sign detec
   - **Recall:** `0.863`
   - **mAP50:** `0.913`
   - **mAP50-95:** `0.782`
-  - **Inference Speed (Tesla T4):** `~3.9 ms` per image (validation) / `~7.6 ms` (single-image sample run)    
+  - **Inference Speed (Tesla T4):** `~3.9 ms` per image (validation) / `~7.6 ms` (single-image sample run)     
 
 ## Classes (23)
 - **Vehicles & Pedestrians:** `person`, `car`, `truck`, `bus`, `motorcycle`   
